@@ -2,6 +2,8 @@
 
 A lightweight, single-file web app for encoding and decoding text messages using a shared secret key. Built with plain HTML, CSS, and JavaScript — no dependencies, no server, no build step.
 
+🔗 **Live demo:** [cryptographytool-1.wasmer.app](https://cryptographytool-1.wasmer.app/)
+
 ## Features
 
 - **Encrypt** a message and **decrypt** it back using one of four methods
@@ -23,7 +25,7 @@ A lightweight, single-file web app for encoding and decoding text messages using
 
 ## How to Use
 
-1. Open `2ndProject.html` in any modern web browser.
+1. Open `index.html` in any modern web browser, or try the [live demo](https://cryptographytool-1.wasmer.app/).
 2. **To encrypt:**
    - Choose a method from the dropdown.
    - Enter a secret key (required for XOR and Caesar).
@@ -38,7 +40,7 @@ A lightweight, single-file web app for encoding and decoding text messages using
 ## Project Structure
 
 ```
-2ndProject.html   # Everything: markup, styles, and logic in one file
+index.html   # Everything: markup, styles, and logic in one file
 ```
 
 ## Tech Stack
@@ -54,4 +56,4 @@ Works in any modern browser that supports the Clipboard API and ES6 (Chrome, Fir
 
 ## License
 
-Free to use, modify, and share for personal or educational projects.# crytogpraphytool
+Free to use, modify, and share for personal or educational projects.
