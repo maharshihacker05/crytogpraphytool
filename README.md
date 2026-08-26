@@ -2,7 +2,9 @@
 
 A lightweight, single-file web app for encoding and decoding text messages using a shared secret key. Built with plain HTML, CSS, and JavaScript — no dependencies, no server, no build step.
 
-🔗 **Live demo:** [cryptographytool-1.wasmer.app](https://cryptographytool-1.wasmer.app/)
+### 🔗 [**Try the Live Demo →**](https://cryptographytool-1.wasmer.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-cryptographytool--1.wasmer.app-7c9aff?style=for-the-badge)](https://cryptographytool-1.wasmer.app/)
 
 ## Features
 
